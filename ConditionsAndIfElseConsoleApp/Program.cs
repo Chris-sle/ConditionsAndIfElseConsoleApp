@@ -1,0 +1,3 @@
+﻿using ConditionsAndIfElseConsoleApp;
+
+ifElseMethods.Run();
